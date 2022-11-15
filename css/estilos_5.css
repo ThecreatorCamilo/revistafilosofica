@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing:border-box;
+}
+
+.fondo{
+    background-image: url(../imagenes/fondo_2.jpg);
+    margin: 0;
+    height: 400vh;
+}
+
+#banner{
+    height: 300px;
+    width: 1000px;
+}
+
+#encabezado{
+    text-align:center;
+    font-size: 18px;
+    float:center;
+    margin-bottom:20px;
+    color:#fff;
+}
+
+#encabezado_2{
+    text-align:center;
+    font-size: 30px;
+}
+
+nav{
+    margin-left: 20px;
+    text-align:left;
+}
+
+.lista {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 330px;
+    height:260vh;
+    background:rgb(25, 161, 161);
+    font-size: 20px;
+    padding: 25px;
+    border-radius: 30px;
+    float:left;
+    text-decoration: none;
+    font-family: 'Anton', sans-serif;
+}
+
+li a {
+    display: block;
+    color: #000;
+    padding: 10px 0 8px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color on hover */
+li a:hover {
+    background-color: rgb(24, 24, 24);
+    color: white;
+}
+
+#frase_1{
+    height:150px;
+    width:250px;
+}
+
+.container{
+    color:#fff;
+    float:center;
+    font-size: 22px;
+    text-align: justify;
+}
+
+.texto{
+    margin-left: 380px;
+    margin-right: 50px;
+}
+
+.parrafo{
+    margin-left: 20px;
+}
+
+.paragraph{
+    text-align: justify;
+}
+
+.pie_de_pagina{
+    background-image: url(../imagenes/paisaje-digital-en-atardecer_3840x2160_xtrafondos.com.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+    height: 150vh;
+}
+.parrafo2{
+    font-size: 25px;
+    color:white;
+    text-align: center;
+    margin-left: 30px;
+}
+
+.pie_de_pagina a{
+    color:#fff;
+}
+
+#fuente{
+    color: #fff;
+}
+
+#copyright{
+    height:200px;
+    width:200px;
+}
+
+.list{
+    list-style-type:none;
+}
+
+#frase_2{
+    height:150px;
+    width:250px;
+}
+
